@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680161867 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\funciones con pilas\librerias\pila.c
+	"pila.h"
+
+1680161867 c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\funciones con pilas\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681550265 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\funciones con pilas\ejercicio10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Librerias/pila.h"
+	<conio.h>
+
